@@ -1,10 +1,11 @@
 <!-- Generated from the same source as https://alexeyw.github.io/. Text in the images is repeated in their alt text. -->
 
-<a href="https://alexeyw.github.io/"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/hero-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/hero.svg" alt="Case file of Aleksei Volodin, Senior Android Engineer · AI Native Engineer, Santiago, Chile, remote. 20+ years in software, 12+ on Android, 20+ apps shipped. I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word." width="100%"></picture></a>
+<a href="https://alexeyw.github.io/"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/hero-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/hero.svg" alt="Case file of Aleksei Volodin, Senior Android Engineer · AI Native Engineer, Santiago, Chile, remote. Checked figures: 611 pull requests merged (Knotwork); 2076 commits (Knotwork); 21 tagged releases (Knotwork); 50K+ downloads (Colored Seeds). I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word." width="100%"></picture></a>
 
 <p align="center">
   <a href="https://alexeyw.github.io/"><b>Read the full file</b></a> &nbsp;·&nbsp;
   <a href="https://alexeyw.github.io/Aleksei_Volodin_CV.pdf">CV (PDF)</a> &nbsp;·&nbsp;
+  <a href="https://alexeyw.github.io/#sec-chronicle">Chronicle</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/alexeyw">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/alekseivolodin-0340/credentials/55fe52f5e588c88c">Microsoft credential</a> &nbsp;·&nbsp;
   <a href="https://alexeyw.github.io/es/">Español</a> &nbsp;·&nbsp;
@@ -15,10 +16,24 @@
 
 <a href="https://play.google.com/store/apps/details?id=com.avolodin.colored.seeds"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/seeds-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/seeds.svg" alt="Colored Seeds: Logic puzzle on Google Play. Match pairs of colored seeds, clear rows and empty the board. A long-running game, rewritten and relaunched as 3.0 in 2026. Downloads 50K+, Rating 4.0, Ratings 551, Last update Oct 31, 2026." width="100%"></picture></a>
 
-<a href="https://alexeyw.github.io/#sec-ai"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/ai-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/ai.svg" alt="AI Native Engineering. Coding agents work across the whole SDLC. The engineer owns specification, architecture and release decisions. Spec-Driven Development (SDD), AI-Driven Development (AIDD), Human-in-the-loop gates, Context engineering, Multi-agent orchestration, Guardrails as code, Agentic code review, CI quality gates, ADR and docs as code, Release engineering and supply chain." width="100%"></picture></a>
+### Capabilities
+
+| Area | Skills |
+| --- | --- |
+| Android | **Kotlin**, Java, **Android SDK**, **Jetpack Compose**, **Architecture Components**, **Coroutines**, Flow, Retrofit, **OkHttp**, **WorkManager**, **Room**, **Navigation**, **Hilt**, **Dagger**, Koin, RxJava, WebSocket, performance optimisation |
+| On-device AI | LiteRT, **LiteRT-LM**, **Koog**, **AppFunctions Jetpack**, local LLM integration, privacy-first inference |
+| AI Native Engineering | Spec-Driven Development, AI-Driven Development, agentic SDLC, context engineering, multi-agent orchestration, human-in-the-loop gates, guardrails as code, **MCP**, prompt engineering; **Claude Code**, **GitHub Copilot**, Gemini CLI |
+| Testing and QA | **JUnit**, **Espresso**, UI Automator, Mockito, **MockK**, **Detekt**, **Ktlint**, **CI test pipelines** |
+| IoT / BLE | GATT, connection reliability, background sync, OTA; UV sterilisers, smart locks, e-scooters |
+| Services and data | REST, JSON, XML, **Firebase**, AWS, SQL, SQLite, Realm, MongoDB |
+| CI/CD and tools | **Gradle**, **GitHub Actions**, Bitrise, Jenkins, Android Studio, IntelliJ IDEA |
+
+<sub>Bold: can be read in public, in the <a href="https://github.com/alexeyw/knotwork/blob/main/gradle/libs.versions.toml">version catalog</a>, workflows and commits of Knotwork (26 of 66, checked 2026-11-10). The rest is his word.</sub>
 
 <details>
-<summary><b>How each practice works</b></summary>
+<summary><b>AI Native Engineering: how each practice works</b></summary>
+
+Coding agents work across the whole SDLC. The engineer owns specification, architecture and release decisions. The same practices are drawn as one line of work, with the points where a person decides, <a href="https://alexeyw.github.io/#sec-ai">in the full file</a>.
 
 | Practice | How it is done | Status |
 | --- | --- | --- |
@@ -35,8 +50,4 @@
 
 </details>
 
-<a href="https://alexeyw.github.io/#sec-chronicle"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/chronicle-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/chronicle.svg" alt="Chronicle. Open-source AI agent on the phone, Knotwork, Mar 2026 – now; Rewritten and relaunched as 3.0, Colored Seeds, Oct 2026; Senior Android Developer, Muruna, Jun 2022 – now; Senior Android Developer, MOBDEV, Feb 2021 – Jun 2022; Senior Android Developer (contract), Swing AI &amp; LifeJourney, Jul 2017 – Mar 2020; Lead Android Developer, Knotable, Sep 2014 – Jan 2017; Senior Android Developer, Freelance, Sep 2011 – now; Software analyst and engineer, 1C · C++ · SQL, 2003 – 2012." width="100%"></picture></a>
-
-<a href="https://alexeyw.github.io/#sec-caps"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/caps-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/caps.svg" alt="Capabilities. Android: Kotlin, Java, Android SDK, Jetpack Compose, Architecture Components, Coroutines, Flow, Retrofit, OkHttp, WorkManager, Room, Navigation, Hilt, Dagger, Koin, RxJava, WebSocket, performance optimisation. On-device AI: LiteRT, LiteRT-LM, Koog, AppFunctions Jetpack, local LLM integration, privacy-first inference. AI Native Engineering: Spec-Driven Development, AI-Driven Development, agentic SDLC, context engineering, multi-agent orchestration, human-in-the-loop gates, guardrails as code, MCP, prompt engineering; Claude Code, GitHub Copilot, Gemini CLI. Testing and QA: JUnit, Espresso, UI Automator, Mockito, MockK, Detekt, Ktlint, CI test pipelines. IoT / BLE: GATT, connection reliability, background sync, OTA; UV sterilisers, smart locks, e-scooters. Services and data: REST, JSON, XML, Firebase, AWS, SQL, SQLite, Realm, MongoDB. CI/CD and tools: Gradle, GitHub Actions, Bitrise, Jenkins, Android Studio, IntelliJ IDEA." width="100%"></picture></a>
-
-<p align="center"><sub>I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word. Figures checked 2026-11-08.</sub></p>
+<p align="center"><sub>I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word. Figures checked 2026-11-10.</sub></p>
