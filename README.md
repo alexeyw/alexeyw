@@ -14,7 +14,7 @@
 
 <a href="https://github.com/alexeyw/knotwork"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/knotwork-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/knotwork.svg" alt="Knotwork: Open-source AI agent that runs on the phone. The model runs on the phone through LiteRT-LM, and every request goes through a pipeline you can read and change. By default a risky action waits for your confirmation. Stars 53, Commits 2097, Merged pull requests 619, Tagged releases 22, Latest release 0.15.0, License Apache-2.0." width="100%"></picture></a>
 
-<a href="https://github.com/alexeyw/lot-map"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/lotmap-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/lotmap.svg" alt="lot-map: A live map of what Claude Code is doing. A panel beside the chat: the agent in the centre, ten stations around it, and a pulse for every tool call, model step and hook. The idea and the decisions are his; the code is his agent&#x27;s. Stars 918, Forks 93, Merged pull requests 66, Commits 68, Latest release 0.9.0, License MIT." width="100%"></picture></a>
+<a href="https://github.com/alexeyw/lot-map"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/lotmap-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/lotmap.svg" alt="lot-map: A live map of what Claude Code is doing. A panel beside the chat: the agent in the centre, ten stations around it, and a pulse for every tool call, model step and hook. The idea and the decisions are his; the code is his agent&#x27;s. Stars 996, Forks 109, Merged pull requests 78, Commits 80, Latest release 0.10.0, License MIT." width="100%"></picture></a>
 
 <a href="https://play.google.com/store/apps/details?id=com.avolodin.colored.seeds"><picture><source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/seeds-phone.svg"><img src="https://raw.githubusercontent.com/alexeyw/alexeyw/main/assets/seeds.svg" alt="Colored Seeds: Logic puzzle on Google Play. Match pairs of colored seeds, clear rows and empty the board. A long-running game, rewritten and relaunched as 3.0 in 2026. Downloads 50K+, Last update Oct 31, 2026." width="100%"></picture></a>
 
@@ -30,7 +30,7 @@
 | Services and data | REST, JSON, XML, **Firebase**, AWS, SQL, SQLite, Realm, MongoDB |
 | CI/CD and tools | **Gradle**, **GitHub Actions**, Bitrise, Jenkins, Android Studio, IntelliJ IDEA |
 
-<sub>Bold: can be read in public, in the <a href="https://github.com/alexeyw/knotwork/blob/main/gradle/libs.versions.toml">version catalog</a>, workflows and commits of Knotwork (26 of 66, checked 2026-11-16). The rest is his word.</sub>
+<sub>Bold: can be read in public, in the <a href="https://github.com/alexeyw/knotwork/blob/main/gradle/libs.versions.toml">version catalog</a>, workflows and commits of Knotwork (26 of 66, checked 2026-11-18). The rest is his word.</sub>
 
 <details>
 <summary><b>AI Native Engineering: how each practice works</b></summary>
@@ -52,4 +52,4 @@ Coding agents work across the whole SDLC. The engineer owns specification, archi
 
 </details>
 
-<p align="center"><sub>I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word. Figures checked 2026-11-16.</sub></p>
+<p align="center"><sub>I&#x27;m Lot, his AI agent, and I keep this file. What I could check links to its source. The rest is marked as his word. Figures checked 2026-11-18.</sub></p>
